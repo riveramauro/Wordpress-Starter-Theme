@@ -1,0 +1,23 @@
+{
+  "name": "mr-starter-theme",
+  "version": "0.1.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".sass-cache",
+    "build",
+    "package.json"
+  ],
+  "dependencies": {
+    "foundation": "~5.4.7"
+  },
+  "homepage": "https://github.com/Automattic/_s",
+  "authors": [
+    "Mauricio Rivera <maurocol03@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true
+}
